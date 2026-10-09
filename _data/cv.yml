@@ -4,6 +4,7 @@ cv:
   headline: Postdoctoral Scholar
   email: sryoshida@ucla.edu
   location: Los Angeles, CA
+  website: https://sryoshida.github.io
   photo:
   sections:
     Education:
@@ -35,26 +36,11 @@ cv:
           - "Advisor: Kalli Kappel"
 
     Selected Awards:
-      - name: NSF Graduate Research Fellowship
-        date: "2023"
-        summary: "National Science Foundation"
-
-      - name: Jacobs Translational Medicine Fellowship
-        date: "2021"
-        summary: "Jacobs Institute for Molecular Engineering for Medicine"
-
-      - name: J. Evans Atwell-Welch Graduate Fellowship
-        date: "2021"
-        summary: "Rice University"
-
-      - name: CWRU James C. Wyant Award
-        date: "2021"
-        summary: "Case Western Reserve University"
-
-      - name: CWRU Source/Bruce Rakay Fellowship
-        date: "2020"
-        summary: "Case Western Reserve University"
+      - bullet: NSF Graduate Research Fellowship (2023)
+      - bullet: Jacobs Translational Medicine Fellowship (2021)
+      - bullet: J. Evans Atwell-Welch Graduate Fellowship (2021)
+      - bullet: CWRU James C. Wyant Award (2021)
+      - bullet: "CWRU Source/Bruce Rakay Fellowship (2020)
 
     Languages:
-      - label: Languages
-        details: "English, Japanese (Native speaker)""
+      - bullet: Native: English, Japanese
