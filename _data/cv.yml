@@ -1,60 +1,60 @@
+
 cv:
   name: Shawn Yoshida
-  label: Postdoctoral Scholar
+  headline: Postdoctoral Scholar
   email: sryoshida@ucla.edu
   location: Los Angeles, CA
-  image: ""
-  summary: Biological physicist interested in the spatiotemporal organization of complex, intracellular environments.
-
+  photo:
   sections:
     Education:
       - institution: California Institute of Technology
         location: Pasadena, CA
         area: Biochemistry and Molecular Biophysics
-        studyType: PhD
-        start_date: 2021
-        end_date: 2026
-        score: ""
-        courses: ""
-        highlights: 
-        - "Advisor: Shasha Chong"
+        degree: PhD
+        start_date: "2021"
+        end_date: "2026"
+        highlights:
+          - "Advisor: Shasha Chong"
 
       - institution: Case Western Reserve University
-        location: Cleveland, CA
+        location: Cleveland, OH
         area: Physics
-        studyType: BA
-        start_date: 2017
-        end_date: 2021
-        highlights: 
-        - "Advsor: Lydia Kisley"
+        degree: BA
+        start_date: "2017"
+        end_date: "2021"
+        highlights:
+          - "Advisor: Lydia Kisley"
 
     Experience:
       - company: University of California, Los Angeles
         position: Postdoctoral Scholar
         location: Los Angeles, CA
-        start_date: 2026
-        end_date: Present
-        summary: 
-        highlights: 
-        - "Advisor: Kalli Kappel"
+        start_date: "2026"
+        end_date: present
+        highlights:
+          - "Advisor: Kalli Kappel"
 
     Selected Awards:
-      - title: NSF Graduate Research Fellowship
-        date: 2023
-        awarder: National Science Foundation
-      - title: Jacobs Translational Medicine Fellowship
-        date: 2021
-        awarder: Jacobs Institute for Molecular Engineering for Medicine
-      - title: J. Evans Atwell-Welch Graduate Fellowship
-        date: 2021
-        awarder: Rice University
-      - title: CWRU James C. Wyant Award
-        date: 2021
-        awarder: Case Western Reserve University
-      - title: CWRU Source/Bruce Rakay Fellowship
-        date: 2020
-        awarder: Case Western Reserve University
+      - name: NSF Graduate Research Fellowship
+        date: "2023"
+        summary: National Science Foundation
+
+      - name: Jacobs Translational Medicine Fellowship
+        date: "2021"
+        summary: Jacobs Institute for Molecular Engineering for Medicine
+
+      - name: J. Evans Atwell-Welch Graduate Fellowship
+        date: "2021"
+        summary: Rice University
+
+      - name: CWRU James C. Wyant Award
+        date: "2021"
+        summary: Case Western Reserve University
+
+      - name: CWRU Source/Bruce Rakay Fellowship
+        date: "2020"
+        summary: Case Western Reserve University
 
     Languages:
-      - name: English, Japanese
-        summary: "Native speaker"
+      - label: Languages
+        details: English, Japanese (Native speaker)
