@@ -37,24 +37,24 @@ cv:
     Selected Awards:
       - name: NSF Graduate Research Fellowship
         date: "2023"
-        summary: National Science Foundation
+        summary: "National Science Foundation"
 
       - name: Jacobs Translational Medicine Fellowship
         date: "2021"
-        summary: Jacobs Institute for Molecular Engineering for Medicine
+        summary: "Jacobs Institute for Molecular Engineering for Medicine"
 
       - name: J. Evans Atwell-Welch Graduate Fellowship
         date: "2021"
-        summary: Rice University
+        summary: "Rice University"
 
       - name: CWRU James C. Wyant Award
         date: "2021"
-        summary: Case Western Reserve University
+        summary: "Case Western Reserve University"
 
       - name: CWRU Source/Bruce Rakay Fellowship
         date: "2020"
-        summary: Case Western Reserve University
+        summary: "Case Western Reserve University"
 
     Languages:
       - label: Languages
-        details: English, Japanese (Native speaker)
+        details: "English, Japanese (Native speaker)""
