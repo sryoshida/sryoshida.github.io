@@ -24,7 +24,7 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 ---
 
-I am a biological physicist specializing in various aspects of soft condensed matter, optical microscopy, stochastic processes, and molecular biology, and am broadly interested in identifying organizational and regulatory strategies cells use to precisely coordinate the reactions necessary for life in complex and crowded environments. 
+I am a biological physicist specializing in various aspects of soft condensed matter, optical microscopy, stochastic processes, and molecular biology, and am broadly interested in identifying organizational and regulatory strategies that allow for the precise coordination of biochemical reactions in complex intracellular environment. 
 
 I am currently a postdoctoral scholar at the University of California, Los Angeles in the lab of [Kalli Kappel](https://sites.google.com/view/kappellab/people). I received my PhD in Biochemistry and Molecular Biophysics from the California Institute of Technology as an NSF Graduate Research Fellow advised by [Shasha Chong](https://www.schonglab.com/team), and my BA in Physics from Case Western Reserve University advised by [Lydia Kisley](https://www.kisleylab.science/about-lydia).
 
